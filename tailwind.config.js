@@ -18,7 +18,8 @@ module.exports = {
 				darkbutton: "#282828",
 			},
 			backgroundImage: {
-				banner: "url('/girl.jpg')",
+				banner:
+					"url('https://unsplash.com/fr/photos/femme-buvant-a-la-bouteille-YoUmTMW0FJA')",
 			},
 			lineHeight: {
 				12: "3rem",

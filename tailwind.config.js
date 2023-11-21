@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-	content: ["./src/**/*.{html,js}"],
+	content: ["index.html"],
 	theme: {
 		fontSize: {
 			little: "8px",
@@ -18,7 +18,7 @@ module.exports = {
 				darkbutton: "#282828",
 			},
 			backgroundImage: {
-				banner: "url('/src/assets/girl.jpg')",
+				banner: "url('/girl.jpg')",
 			},
 			lineHeight: {
 				12: "3rem",
